@@ -1,3 +1,12 @@
+body{background-color: bisque;
+ font-family:'Times New Roman', Times, serif; 
+ font-size: 16px; 
+ text-align: justify; 
+ color: black;
+ padding: 10px; 
+ border-radius: 5px;
+ margin-bottom: 10px;
+}
 h1{background-color: bisque;
  font-family:'Times New Roman', Times, serif; 
  font-size: 24px; 
