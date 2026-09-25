@@ -5,8 +5,8 @@ body{background-color: bisque;
  color: black;
  padding: 10px; 
  border-radius: 5px;
- margin-bottom: 10px;
-}
+ margin-bottom: 10px;}
+
 h1{background-color: bisque; 
 font-size: 24px; 
  text-align: center; 
@@ -14,15 +14,15 @@ font-size: 24px;
  padding: 10px; 
  border-radius: 5px;
  color: black;
-outline: 2px blue;
- border:2px blue;
+outline: 2px solid blue;
+ border:2px solid blue;
  font-family:'Times New Roman', Times, serif; 
  font-size: 24px; 
  text-align: left; 
  color: darkslategray; 
  padding: 10px; 
- border-radius: 5px;
  color: black}
+
  h2{background-color: bisque;
  font-family:'Times New Roman', Times, serif; 
  font-size: 24px; 
@@ -31,6 +31,7 @@ outline: 2px blue;
  padding: 10px; 
  border-radius: 5px;
  color: black}
+
 p{font-family:'Times New Roman', Times, serif;
  font-size: 16px; 
  background-color: bisque;
