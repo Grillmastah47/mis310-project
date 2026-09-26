@@ -9,20 +9,15 @@ body{background-color: bisque;
 
 h1{background-color: bisque; 
 font-size: 24px; 
- text-align: center; 
- color: darkslategray; 
+ text-align:center; 
  padding: 10px; 
  border-radius: 5px;
  color: black;
 outline: 2px solid blue;
  border:2px solid blue;
- outline:2px solid blue;
  font-family:'Times New Roman', Times, serif; 
  font-size: 24px; 
- text-align: left; 
- color: darkslategray; 
- padding: 10px; 
- color: black}
+ padding: 10px;}
 
  h2{background-color: bisque;
  font-family:'Times New Roman', Times, serif; 
