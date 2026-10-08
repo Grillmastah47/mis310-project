@@ -7,6 +7,10 @@ body{background-color: bisque;
  border-radius: 5px;
  margin-bottom: 10px;}
 
+ .navigation {
+    display: flex;
+    gap: 24px;}
+    
 h1{background-color: bisque; 
 font-size: 24px; 
  text-align:center; 
