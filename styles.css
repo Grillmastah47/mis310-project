@@ -21,6 +21,7 @@ body{background-color: bisque;
     background-color: teal;
     border-radius: 5px;
     padding: 10px;
+    text-color: white;
 }
 @media (max-width: 500px) {
     .navigation {
