@@ -19,8 +19,9 @@ body{background-color: bisque;
     border-radius: 5px;
     padding: 10px;
 }
-
-
+.grid-container {
+    display: grid;
+}
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
