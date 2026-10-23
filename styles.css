@@ -22,8 +22,6 @@ body{background-color: bisque;
 .grid-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    display: grid;
-    grid-template-rows: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
     padding: 20px;
 }
