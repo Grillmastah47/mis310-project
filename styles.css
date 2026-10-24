@@ -25,6 +25,9 @@ body{background-color: bisque;
     gap: 20px;
     padding: 20px;
 }
+.grid-item {
+    flex-wrap: wrap;
+    flex-direction: column;
 .grid-container:hover{
     background-color: teal;
     border-radius: 5px;
