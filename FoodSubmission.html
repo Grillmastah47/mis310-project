@@ -33,8 +33,15 @@
             type="email"
             name="email"
             size="20"
-          />
+            </input>
           <label for="age">Age (optional):</label>
-          <input type="number" name="age" id="age" min="3" max="100" />
+          <input type="number" name="age" id="age" min="3" max="100" </input>
+        </fieldset>
+        <fieldset>
+            <legend>Food Suggestion</legend>
+            <label for="food-name">Food Name (required):</label>
+            <input type="text" id="food-name" name="food-name" placeholder="Dreadnought Chicken, Ultra Ribs, etc." required size="30">
+            <label for="food-description">Food Description (required):</label>
+            <textarea name="food-description" id="food-description" placeholder="Describe your food idea here..." required rows="5" cols="30"></textarea>
         </fieldset>
 </main>
