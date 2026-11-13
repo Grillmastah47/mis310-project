@@ -8,11 +8,7 @@ body{background-color: bisque;
  margin-bottom: 10px;}
 
  .navigation {
-    display: flex;
-    gap: 24px;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    display: none
     
 }
 .navigation:hover {
