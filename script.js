@@ -1,2 +1,2 @@
 const button=document.querySelector('navigation-button');
-const nav=document.querySelector('navigation');
+const details=document.querySelector('navigation');
