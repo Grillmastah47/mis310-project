@@ -1,5 +1,6 @@
-const button=document.querySelector('navigation-button');
-const navigation=document.querySelector('navigation');
+const button = document.querySelector("#info-button");
+const message = document.querySelector("#event-message");
 
 button.addEventListener("click", function () {
-    navigation.classList.toggle("visible");});
+    message.textContent = "Join us Friday at 2 PM!";
+});
