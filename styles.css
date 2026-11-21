@@ -78,3 +78,12 @@ div{background-color: bisque;
  border-radius: 5px;
  margin-bottom: 10px;
 }
+.nav-links {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.nav-links.active {
+  max-height: 300px;
+}
